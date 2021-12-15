@@ -4,7 +4,7 @@ Part of EOAfrica Research and Development unit:
 
 * Training Module : Earth Observation for Drought Assessment and Monitoring
 
-** Jupyter notebooks and cloud computing
+- Jupyter notebooks and cloud computing
 
 **Author: Longzhu Shen**
 
